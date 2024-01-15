@@ -1,0 +1,9 @@
+html{
+    background-color: grey;
+}
+
+div{
+    color: yellow;
+    font-family: "Consolas";
+    font-size: 24px;
+}
