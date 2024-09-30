@@ -1,0 +1,38 @@
+.arkaplan {
+    background-position: center;
+    background-image: url("resim/meb.png");
+    background-repeat: no-repeat;
+    background-size: 1100px 870px;
+}
+
+.baslik {
+    text-align: center;
+    font-size: 34px;
+    color: #ff0000;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.ataturkResmi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 7px solid #d6d6d6;
+    box-shadow:5px 5px 5px #4b4b4b;
+}
+
+.metin {
+    text-align: justify;
+    font-size: 20px;
+    color: #000000;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.yazar{
+    text-align: right;
+    margin-right: 150px;
+    font-size: 22px;
+    color: #000000;
+    font-family: 'Trebuchet MS', sans-serif;
+}
