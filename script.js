@@ -1,1 +1,0 @@
-alert("Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur!");
